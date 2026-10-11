@@ -323,9 +323,6 @@ movie-recommender-system/
 │
 ├── movie-recommender-system.ipynb
 ├── main.py
-├── movie_list.pkl
-├── similarity.pkl
-├── requirements.txt
 ├── README.md
 ```
 
