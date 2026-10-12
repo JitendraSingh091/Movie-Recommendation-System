@@ -389,7 +389,7 @@ Once you upload a screenshot to the `screenshots/` folder, display it in the REA
 
 ## 👨‍💻 Author
 
-**Jitendra Singh**
+**Jitendra Kumar Singh**
 
 B.Tech – Computer Science & Engineering
 
